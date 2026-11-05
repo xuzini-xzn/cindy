@@ -1,1 +1,0 @@
-ALTER TABLE `task_tags` ADD `name_customized` integer DEFAULT false NOT NULL;

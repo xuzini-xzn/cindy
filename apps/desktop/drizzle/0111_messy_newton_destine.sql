@@ -1,1 +1,0 @@
-ALTER TABLE `task_tags` ADD `sort_order` integer;

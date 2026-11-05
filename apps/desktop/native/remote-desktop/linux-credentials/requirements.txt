@@ -1,3 +1,0 @@
-# Distribution runtime dependencies: Python >= 3.11, PyGObject + Secret-1,
-# libpam, loginctl and Hyprlock. No packages are downloaded at runtime.
-jwcrypto>=1.6.1,<2
